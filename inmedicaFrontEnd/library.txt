@@ -1,0 +1,11 @@
+Datatable-react
+npm i react-data-table-component styled-components
+
+barGraphic-react
+npm install --save chart.js react-chartjs-2
+npm i faker 
+
+json server
+npm install -g json-server
+run
+json-server --watch users.json --port 3000

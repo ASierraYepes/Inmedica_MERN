@@ -1,0 +1,65 @@
+/* #iniciarsesion {
+    background-color: #ffffff;
+    color: gray;
+    border-radius: 3px;
+    border-radius: 20px;
+} */
+
+
+li {
+    margin-left:10px;
+    margin-right:10px;
+    
+}
+
+#registro {
+    background-color: #FAFAFA;
+    border-radius: 20px;
+}
+
+#carouselExampleControls{
+   height: 500px;
+   margin-left: 50px;
+   margin-right: 50px;
+}
+
+.row{
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+
+.card{
+    background-color: #FAFAFA;
+
+}
+
+.card-title {
+    color: #B81C09;
+    text-align: center;
+    font-size: 26px;
+}
+
+h3{
+    color: #B81C09;
+    text-align: center;
+    font-size: 26px;
+}
+
+.card-text{
+    font-size: 20px;
+}
+
+.card-body h5{
+    align-content: center;
+    background-color: #FAFAFA;
+}
+
+.modaladd {
+    margin-left: 1110px;
+}
+
+.modaladdexam {
+    margin-left: 1027px;
+}
